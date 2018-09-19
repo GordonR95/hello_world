@@ -1,2 +1,2 @@
 # hello_world
-teaching myself to make github repositories hey woo yea
+teaching myself to make github repositories HEY WOO YEA
